@@ -3,6 +3,8 @@
 ## Overview
 This repository contains all the necessary files and resources for implementing and evaluating models for network anomaly detection. The project involves both supervised and unsupervised learning approaches, and the models are deployed as Flask applications for real-world usability.
 
+## Blog: https://medium.com/@itsani4u24/end-to-end-network-anomaly-detection-for-cybersecurity-a-comprehensive-guide-9148e40d8029
+
 ---
 
 ## Repository Structure
